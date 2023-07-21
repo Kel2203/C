@@ -1,5 +1,5 @@
-# C
-Learn C
+# <a href="https://github.com/Kel2203" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>
+
 
 ## Jogo adivinhação:
 
